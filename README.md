@@ -1,6 +1,6 @@
-# JQL
+# PHP-JQL
 
-`JQL` (JSON Query Language) is a versatile PHP class that enables querying of JSON data using both raw SQL-Like query strings and a fluent interface. It is designed to facilitate sophisticated data manipulation and retrieval operations, allowing you to leverage the power of SQL-like queries or a more intuitive, method-chaining approach.
+`PHP-JQL` (JSON Query Language) is a PHP implementation that enables querying of JSON data using both raw SQL-Like query strings and a fluent interface. It is designed to facilitate sophisticated data manipulation and retrieval operations, allowing you to leverage the power of SQL-like queries or a more intuitive, method-chaining approach.
 
 ## Overview
 
